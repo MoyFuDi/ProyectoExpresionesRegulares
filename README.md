@@ -1,2 +1,2 @@
 # ProyectoExpresionesRegulares
-Crear campos de texto con validaciones colocando expresiones regulares.
+Crear campos de texto con validaciones mediante expresiones regulares.
